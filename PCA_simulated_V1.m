@@ -1,4 +1,4 @@
-%% Example application of prinicipal component regression 
+%% Example application of prinicipal component regression
 %%Written by John O'Connor
 %%NB all data is simulated and should not be interpreted as otherwise
 %%Requires statistics and machine learning toolbox for pca.m function

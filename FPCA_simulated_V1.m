@@ -1,4 +1,4 @@
-%% Example application of prinicipal component regression 
+%% Example application of prinicipal component regression (https://doi.org/10.3389/fnhum.2020.00261)
 %%Written by John O'Connor
 %%NB all data is simulated and should not be interpreted as otherwise
 %%using open FDA software(http://www.psych.mcgill.ca/misc/fda)
